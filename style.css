@@ -1,0 +1,159 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+
+
+}
+
+.half-width h1 {
+    font-size: 57px;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.add-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 35px;
+    border-radius: 35px;
+
+
+}
+
+#color {
+    color: rgb(252, 47, 25);
+}
+
+.diff-color {
+    color: #575757;
+}
+
+.second-page {
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+
+.img-container {
+    width: 50%;
+    float: left;
+
+}
+
+.maindiv {
+    width: 50%;
+    margin: auto;
+
+}
+
+.shadow-box {
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 30px;
+    margin-left: 5px;
+    margin-right: 10px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+
+}
+
+.img-width img {
+
+    width: 460px;
+    height: 300px;
+    padding-right: 25px;
+    padding-left: 8px;
+    padding-top: 23px;
+}
+
+.scale {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.aligned {
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.aligned h2 {
+    font-size: 35px;
+}
+
+.subs-section {
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 35px;
+    margin-right: 100px;
+    padding-left: 30px;
+    margin-bottom: 80px;
+    margin-left: 100px;
+    height: 180px;
+    padding-top: 25px;
+    padding-bottom: -20px;
+    align-items: center;
+
+
+}
+
+.flexed {
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+.social {
+    line-height: 2%;
+    padding-top: 20px;
+
+}
+
+.social h1 {
+    font-size: 42px;
+    font-weight: 900;
+
+}
+
+.social p {
+    font-size: 15px;
+}
+
+.footer {
+    background-color: #0B0D17;
+    height: 200px;
+
+}
+
+.align-text {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#orange {
+    color: orange;
+
+}
+
+.align-text h1 {
+    font-weight: 900;
+    color: red;
+}
+
+.align-text small {
+    color: aqua;
+
+}
